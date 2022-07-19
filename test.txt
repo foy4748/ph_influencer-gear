@@ -1,0 +1,192 @@
+<div class="product">
+            <img src="./images/action.png" alt="action.png" />
+            <h1 class="product-title">action.png</h1>
+            <h2 class="price">$1974.1974</h2>
+            <p class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star-half"></i>
+              4.9
+            </p>
+            <p class="someText">
+              Wordwide shifting available Buyers protection possible!
+            </p>
+          </div>
+<div class="product">
+            <img src="./images/airpod.png" alt="airpod.png" />
+            <h1 class="product-title">airpod.png</h1>
+            <h2 class="price">$244.244</h2>
+            <p class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star-half"></i>
+              4.9
+            </p>
+            <p class="someText">
+              Wordwide shifting available Buyers protection possible!
+            </p>
+          </div>
+<div class="product">
+            <img src="./images/camera.png" alt="camera.png" />
+            <h1 class="product-title">camera.png</h1>
+            <h2 class="price">$630.630</h2>
+            <p class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star-half"></i>
+              4.9
+            </p>
+            <p class="someText">
+              Wordwide shifting available Buyers protection possible!
+            </p>
+          </div>
+<div class="product">
+            <img src="./images/Circle design.svg" alt="Circle design.svg" />
+            <h1 class="product-title">Circle design.svg</h1>
+            <h2 class="price">$1958.1958</h2>
+            <p class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star-half"></i>
+              4.9
+            </p>
+            <p class="someText">
+              Wordwide shifting available Buyers protection possible!
+            </p>
+          </div>
+<div class="product">
+            <img src="./images/drone.png" alt="drone.png" />
+            <h1 class="product-title">drone.png</h1>
+            <h2 class="price">$1842.1842</h2>
+            <p class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star-half"></i>
+              4.9
+            </p>
+            <p class="someText">
+              Wordwide shifting available Buyers protection possible!
+            </p>
+          </div>
+<div class="product">
+            <img src="./images/gear.png" alt="gear.png" />
+            <h1 class="product-title">gear.png</h1>
+            <h2 class="price">$1086.1086</h2>
+            <p class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star-half"></i>
+              4.9
+            </p>
+            <p class="someText">
+              Wordwide shifting available Buyers protection possible!
+            </p>
+          </div>
+<div class="product">
+            <img src="./images/lights.png" alt="lights.png" />
+            <h1 class="product-title">lights.png</h1>
+            <h2 class="price">$1407.1407</h2>
+            <p class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star-half"></i>
+              4.9
+            </p>
+            <p class="someText">
+              Wordwide shifting available Buyers protection possible!
+            </p>
+          </div>
+<div class="product">
+            <img src="./images/main-camera.png" alt="main-camera.png" />
+            <h1 class="product-title">main-camera.png</h1>
+            <h2 class="price">$1263.1263</h2>
+            <p class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star-half"></i>
+              4.9
+            </p>
+            <p class="someText">
+              Wordwide shifting available Buyers protection possible!
+            </p>
+          </div>
+<div class="product">
+            <img src="./images/mic.png" alt="mic.png" />
+            <h1 class="product-title">mic.png</h1>
+            <h2 class="price">$1467.1467</h2>
+            <p class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star-half"></i>
+              4.9
+            </p>
+            <p class="someText">
+              Wordwide shifting available Buyers protection possible!
+            </p>
+          </div>
+<div class="product">
+            <img src="./images/setup.png" alt="setup.png" />
+            <h1 class="product-title">setup.png</h1>
+            <h2 class="price">$1476.1476</h2>
+            <p class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star-half"></i>
+              4.9
+            </p>
+            <p class="someText">
+              Wordwide shifting available Buyers protection possible!
+            </p>
+          </div>
+<div class="product">
+            <img src="./images/single-light.png" alt="single-light.png" />
+            <h1 class="product-title">single-light.png</h1>
+            <h2 class="price">$86.86</h2>
+            <p class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star-half"></i>
+              4.9
+            </p>
+            <p class="someText">
+              Wordwide shifting available Buyers protection possible!
+            </p>
+          </div>
+<div class="product">
+            <img src="./images/tripod.png" alt="tripod.png" />
+            <h1 class="product-title">tripod.png</h1>
+            <h2 class="price">$1367.1367</h2>
+            <p class="ratings">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star-half"></i>
+              4.9
+            </p>
+            <p class="someText">
+              Wordwide shifting available Buyers protection possible!
+            </p>
+          </div>
