@@ -130,6 +130,30 @@ body {
 .product > img {
   width: 100%;
 }
+/*---------- FOOTER Section ----------*/
+footer > h1,footer > p{
+    font-size:1rem;
+    text-align:center;
+    padding:0;
+}
+
+footer{
+    background-color:#161616;
+    color:whitesmoke;
+    padding-top: 1rem;
+    padding-left:0;
+}
+ul.socials{
+    list-style: none;
+    display:flex;
+    justify-content:space-around;
+    font-size:2rem;
+    padding:0;
+}
+.social > a,.social > a:visited{
+    text-decoration: none;
+    color: whitesmoke;
+}
 /*---------- Customizing Font Awesome ----------*/
 .fa-star,.fa-star-half{
     color:gold;
