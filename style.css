@@ -39,11 +39,11 @@ body {
 }
 
 .nav-items > h1 {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .nav-icon {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 /*---------- MAIN Section ----------*/
 
@@ -78,8 +78,8 @@ body {
 }
 
 .cover-img {
-  min-width: 257px;
-  min-height: 257px;
+  max-width: 257px;
+  max-height: 257px;
 }
 
 /*---------- Vendors Logo Sections */
@@ -87,6 +87,10 @@ body {
   display: flex;
   justify-content: space-around;
   margin-bottom: 1rem;
+}
+
+.logo-line > img{
+    max-width: 3rem;
 }
 /*---------- Popular Collection Sections */
 .popular-collection-section > h1 {
@@ -126,6 +130,10 @@ body {
 .product > img {
   width: 100%;
 }
+/*---------- Customizing Font Awesome ----------*/
+.fa-star,.fa-star-half{
+    color:gold;
+}
 
 /*---------- MEDIA QUERIES ----------*/
 
@@ -135,6 +143,10 @@ body {
 @media screen and (min-width: 576px) {
   .collection {
     grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .logo-line > img{
+    max-width:100%;
   }
 }
 
@@ -158,6 +170,7 @@ body {
   }
   .half-view-left > h1,
   .half-view-left > p {
+    font-size: 2rem;
     text-align: left;
   }
   .collection {
