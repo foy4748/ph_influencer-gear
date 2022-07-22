@@ -150,14 +150,22 @@ footer {
 ul.socials {
   list-style: none;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   font-size: 2rem;
   padding: 0;
+  padding-bottom: 3rem;
+  margin: 0;
+  margin-top: 3rem;
 }
+
 .social > a,
 .social > a:visited {
   text-decoration: none;
   color: whitesmoke;
+}
+
+.li-item {
+  padding: 1.5rem;
 }
 /*---------- Customizing Font Awesome ----------*/
 .fa-star,
@@ -202,6 +210,7 @@ ul.socials {
   .half-view-left > p {
     font-size: 2rem;
     text-align: left;
+    margin: 0;
   }
 
   .half-view-left > p {
@@ -213,6 +222,10 @@ ul.socials {
 
   .logo-line-2 {
     justify-content: space-evenly;
+  }
+
+  ul.socials {
+    justify-content: space-around;
   }
 }
 
