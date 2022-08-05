@@ -158,6 +158,41 @@ body {
 .product > img {
   width: 100%;
 }
+/*---------- FEATURE Section ----------*/
+.feature-info > h1 {
+  font-size: 1.75rem;
+  line-height: 2.75rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.feature-info > p {
+  font-size: 1rem;
+  line-height: 1.75rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.feature-info {
+  padding: 0 1rem;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+}
+
+.feature-img > img {
+  width: 90%;
+  margin: 0;
+}
+
+.feature-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 5rem 0;
+}
+
 /*---------- FOOTER Section ----------*/
 footer > h1,
 footer > p {
@@ -165,6 +200,10 @@ footer > p {
   text-align: center;
   padding: 0;
   padding-top: 1rem;
+}
+
+footer > h1 {
+  font-size: 2rem;
 }
 
 footer {
@@ -177,22 +216,24 @@ ul.socials {
   list-style: none;
   display: flex;
   justify-content: center;
-  font-size: 2rem;
-  padding: 0;
-  padding-bottom: 3rem;
+  flex-wrap: wrap;
+  padding: 1rem 0;
   margin: 0;
-  margin-top: 2rem;
 }
 
 .social > a,
 .social > a:visited {
   text-decoration: none;
   color: whitesmoke;
+  font-size: 2rem;
+  padding: 0;
+  margin: 0;
 }
 
 .li-item {
-  padding: 1.5rem;
+  padding: 0.5rem;
 }
+
 /*---------- Customizing Font Awesome ----------*/
 .fa-star,
 .fa-star-half {
@@ -218,6 +259,40 @@ ul.socials {
 @media screen and (min-width: 768px) {
   .collection {
     grid-template-columns: repeat(3, 1fr);
+  }
+
+  .feature-product {
+    display: flex;
+    flex-flow: row nowrap;
+    margin-bottom: 5rem;
+  }
+
+  .feature-img {
+    order: -1;
+    width: 50%;
+    padding: 0 1rem;
+    margin: 0;
+  }
+
+  .feature-img > img {
+    width: 100%;
+  }
+
+  .feature-info {
+    width: 50%;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 0;
+  }
+
+  .feature-info > h1,
+  .feature-info > p {
+    text-align: left;
+    line-height: 1.75;
+  }
+
+  .feature-info > p {
+    font-weight: 400;
   }
 }
 
@@ -257,8 +332,13 @@ ul.socials {
     justify-content: space-evenly;
   }
 
-  ul.socials {
-    justify-content: space-around;
+  .socials > .li-item {
+    padding: 2rem;
+  }
+
+  .feature-product {
+    margin: 0 7rem;
+    margin-bottom: 5rem;
   }
 
   /* Activating Desktop Navbar */
